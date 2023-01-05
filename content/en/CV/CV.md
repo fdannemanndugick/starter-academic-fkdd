@@ -38,7 +38,7 @@ group_logo = ""
   institution = "Southern Methodist University"
   institution_short = "SMU"
   year = 2021
-  logo = "/logo/logo_SMU.png"
+  logo = "./logo/logo_SMU.png"
 
 [[education.courses]]
   course = "MS in Geophysics"
