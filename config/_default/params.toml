@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Université du Québec à Montréal"
+org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -127,7 +127,7 @@ directions = "Office 4345 (4th floor), Pavillon Adrien Pinard. Take the elevator
 sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "rempsyc"
+twitter = "drfransiskad"
 
 ############################
 ## Regional Settings
