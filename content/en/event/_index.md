@@ -1,5 +1,5 @@
 ---
-title: Recent Talks & Other News'
+title: Recent Talks & Other News
 
 url: "/News/"
 
