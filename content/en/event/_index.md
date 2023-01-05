@@ -1,7 +1,7 @@
 ---
 title: Recent Talks & Other News'
 
-url: "/event/"
+url: "/News/"
 
 # View.
 #   1 = List
@@ -15,5 +15,5 @@ header:
   caption: ""
   image: ""
 
-#aliases: ["/event/"]
+#aliases: ["/News/"]
 ---
