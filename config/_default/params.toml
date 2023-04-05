@@ -93,11 +93,9 @@ phone = "Four-Three-Eight 995 7648"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-<<<<<<< HEAD
-address = ""
-=======
+
 address = {street = "100, rue Sherbrooke Ouest", city = "Montréal", region = "Québec", postcode = "H2X 3P2", country = "Canada", country_code = "CA"}
->>>>>>> parent of 84dec1c (adding contact page)
+
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
