@@ -1,7 +1,7 @@
 ---
 title: Recent Talks & Other News
 
-url: "/News/"
+url: "/event/"
 
 # View.
 #   1 = List
