@@ -1,19 +1,5 @@
----
-title: Recent Talks & Other News
-
-url: "/event/"
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 3
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
-
-#aliases: ["/event/"]
----
++++
+# News
+type = "widget_page"
+headless = false # Homepage is headless, other widget pages are not.
++++
