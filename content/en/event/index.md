@@ -15,5 +15,5 @@ header:
   caption: ""
   image: ""
 
-#aliases: ["/News/"]
+#aliases: ["/event/"]
 ---
