@@ -1,23 +1,21 @@
 ---
-title: 'Evaluating the location capabilities of a regional infrasonic network in Utah, US, using both ray tracing-derived and empirical-derived celerity-range and backazimuth models'
+title: 'A New Decade in Seismoacoustics (2010–2022) '
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Fransiska Dannemann Dugick
-  - Philip Blom
-  - Brian Stump
-  - Chris Hayward
+  - Elizabeth Berg
+  - Clinton Koch
   - Stephen Arrowsmith
-  - Joshua Carmichael
-  - Omar Marcillo
+  - Sarah Albert
 
 # Author notes (optional)
 author_notes: ''
 
 
-date: '2022-03-23'
+date: '2023-04-04'
 doi: 'https://doi.org/10.1093/gji/ggac027'
 
 # Schedule page publish date (NOT publication's date).
@@ -30,10 +28,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Geophysical Journal International*
-publication_short: In *GJI*
+publication: In *Bulletin of the Seismological Society of America*
+publication_short: In *BSSA*
 
-abstract: More realistic models for infrasound signal propagation across a region can be used to improve the precision and accuracy of spatial and temporal source localization estimates. Motivated by incomplete infrasound event bulletins in the Western US, the location capabilities of a regional infrasonic network of stations located between 84–458 km from the Utah Test and Training Range, Utah, USA, is assessed using a series of near-surface explosive events with complementary ground truth (GT) information. Signal arrival times and backazimuth estimates are determined with an automatic F-statistic based signal detector and manually refined by an analyst. This study represents the first application of three distinct celerity-range and backazimuth models to an extensive suite of realistic signal detections for event location purposes. A singular celerity and backazimuth deviation model was previously constructed using ray tracing analysis based on an extensive archive of historical atmospheric specifications and is applied within this study to test location capabilities. Similarly, a set of multivariate, season and location specific models for celerity and backazimuth are compared to an empirical model that depends on the observations across the infrasound network and the GT events, which accounts for atmospheric propagation variations from source to receiver. Discrepancies between observed and predicted signal celerities result in locations with poor accuracy. Application of the empirical model improves both spatial localization precision and accuracy; all but one location estimates retain the true GT location within the 90 per cent confidence bounds. Average mislocation of the events is 15.49 km and average 90 per cent error ellipse areas are 4141 km2. The empirical model additionally reduces origin time residuals; origin time residuals from the other location models are in excess of 160 s while residuals produced with the empirical model are within 30 s of the true origin time. We demonstrate that event location accuracy is driven by a combination of signal propagation model and the azimuthal gap of detecting stations. A direct relationship between mislocation, error ellipse area and increased station azimuthal gaps indicate that for sparse networks, detection backazimuths may drive location biases over traveltime estimates.
+abstract: Several sources of interest often generate both low‐frequency acoustic and seismic signals due to energy propagation through the atmosphere and the solid Earth. Seismic and acoustic observations are associated with a wide range of sources, including earthquakes, volcanoes, bolides, chemical and nuclear explosions, ocean noise, and others. The fusion of seismic and acoustic observations contributes to a better understanding of the source, both in terms of constraining source location and physics, as well as the seismic to acoustic coupling of energy. In this review, we summarize progress in seismoacoustic data processing, including recent developments in open‐source data availability, low‐cost seismic and acoustic sensors, and large‐scale deployments of collocated sensors from 2010 to 2022. Similarly, we outline the recent advancements in modeling efforts for both source characteristics and propagation dynamics. Finally, we highlight the advantages of fusing multiphenomenological signals, focusing on current and future techniques to improve source detection, localization, and characterization efforts. This review aims to serve as a reference for seismologists, acousticians, and others within the growing field of seismoacoustics and multiphenomenology research.
 
 # Summary. An optional shortened abstract.
 summary: []
