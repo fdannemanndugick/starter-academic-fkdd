@@ -28,10 +28,6 @@
   url = "students"
   weight = 45
 
-[[main]]
-  name = "Media"
-  url = "media"
-  weight = 50
 
    [[main]]
     name = "CV"
