@@ -8,7 +8,7 @@ title = "Curriculum Vitae"
 subtitle = ""
 
 # CV location
-cv_pdf = "files/fkdd-cv.pdf"
+cv_pdf = "static/files/fkdd-cv.pdf"
 
 # Group Logo
 group_logo = ""
@@ -38,7 +38,7 @@ group_logo = ""
   institution = "Southern Methodist University"
   institution_short = "SMU"
   year = 2021
-  logo = "./logo/logo_SMU.png"
+  logo = "static/img/logo/logo_SMU.png"
 
 [[education.courses]]
   course = "MS in Geophysics"
@@ -46,7 +46,7 @@ group_logo = ""
   institution = "Southern Methodist University"
   institution_short = "SMU"
   year = 2016
-  logo = "/logo/logo_SMU.png"
+  logo = "static/img/logo/logo_SMU.png"
 
 [[education.courses]]
   course = "BA in Geology, with distinction"
@@ -54,7 +54,7 @@ group_logo = ""
   institution = "Colorado College"
   institution_short = "CC"
   year = 2012
-  logo = "/logo/logo_CC.png"
+  logo = "static/img/logo/logo_CC.png"
 
 
 +++
